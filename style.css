@@ -1,0 +1,8 @@
+.about img{
+    width:100px;       /* horizontal size */
+    height:70px;      /* vertical size */
+    border-radius:50%; /* circular */
+    border:3px solid #0ff;
+    margin-bottom:20px;
+    object-fit:cover;  /* image properly fit ho jaye */
+}
